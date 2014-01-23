@@ -2,8 +2,8 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 #ruby-gemset=railstutorial_rails_4_0
 
-gem 'rails', '4.0.0'
-gem 'bootstrap-sass', '3.0.3.0'
+gem 'rails', '4.0.2'
+gem 'bootstrap-sass', '2.3.2.0'
 gem 'bcrypt-ruby', '3.0.0'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
