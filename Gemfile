@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.3'
+gem 'rails', '4.0.0'
 gem 'jquery-rails', '3.0.4'
 gem 'bootstrap-sass', '2.0.0'
 gem 'bcrypt-ruby', '3.0.1'
@@ -18,7 +18,7 @@ end
 # in production environments by default.
 group :assets do
   gem 'sass-rails',   '3.2.4'
-  gem 'coffee-rails', '3.2.2'
+  gem 'coffee-rails', '4.0.0'
   gem 'uglifier', '1.2.3'
 end
 
